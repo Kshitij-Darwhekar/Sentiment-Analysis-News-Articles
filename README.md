@@ -1,6 +1,6 @@
 # Sentiment-Analysis-News-Articles
 
-Sentiment Analysis of Finance Articles to determine if the news about a particular stock is positieve or negative.
+Sentiment Analysis of Finance Articles to determine if the news about a particular stock is positive or negative.
 
 LLM Used : finebert-tone 
 Link to the model : https://huggingface.co/yiyanghkust/finbert-tone 
