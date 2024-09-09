@@ -10,4 +10,4 @@ FinBERT is a BERT model pre-trained on financial communication text. The purpose
 Corporate Reports 10-K & 10-Q: 2.5B tokens
 Earnings Call Transcripts: 1.3B tokens
 Analyst Reports: 1.1B tokens
-More technical details on FinBERT: Click Link
+More technical details on FinBERT: [Click Link](https://github.com/yya518/FinBERT)
