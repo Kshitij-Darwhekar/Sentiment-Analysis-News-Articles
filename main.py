@@ -3,8 +3,8 @@ from transformers import pipeline
 from tqdm import tqdm  # Import tqdm for the progress bar
 
 # Load the model and tokenizer
-model = AutoModelForSequenceClassification.from_pretrained("yiyanghkust/finbert-tone")
-tokenizer = AutoTokenizer.from_pretrained("yiyanghkust/finbert-tone")
+tokenizer = AutoTokenizer.from_pretrained("mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis")
+model = AutoModelForSequenceClassification.from_pretrained("mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis")
 
 # Initialize the sentiment analysis pipeline
 nlp = pipeline("sentiment-analysis", model=model, tokenizer=tokenizer)
