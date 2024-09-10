@@ -18,7 +18,7 @@ nlp = pipeline("sentiment-analysis", model=model, tokenizer=tokenizer)
 
 # Fetch news data
 top_headlines = newsapi.get_top_headlines(q='stock market', category='business', language='en', country='us')
-all_articles = newsapi.get_everything(q='stock market', sources='bbc-news,the-verge', domains='bbc.co.uk,techcrunch.com', from_param='2024-08-10', to='2024-09-10', language='en', sort_by='relevancy', page=2)
+all_articles = newsapi.get_everything(q='stock market', sources='bbc-news,the-verge', domains='bbc.co.uk,techcrunch.com', from_param='2024-08-10', to='2024-09-10', language='en')
 
 # Extract descriptions for sentiment analysis
 def extract_descriptions(articles):

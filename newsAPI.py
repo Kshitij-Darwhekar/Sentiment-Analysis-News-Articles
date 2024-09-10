@@ -20,9 +20,7 @@ all_articles = newsapi.get_everything(q='stock market',
                                       domains='bbc.co.uk,techcrunch.com',
                                       from_param='2024-08-10',
                                       to='2024-09-10',
-                                      language='en',
-                                      sort_by='relevancy',
-                                      page=2)
+                                      language='en')
 
 # /v2/top-headlines/sources
 # sources = newsapi.get_sources()

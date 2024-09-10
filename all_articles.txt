@@ -1,1 +1,114 @@
 All Articles with Sentiment:
+Title: TipRanks, an AI-based stock tip evaluator created after its founder got burned by bad advice, sells for $200M to Prytek
+Description: Prytek had already been a big investor in TipRanks since 2017, most recently leading a $77 million round in the company in 2021.
+© 2024 TechCrunch. All rights reserved. For personal use only.
+Sentiment: neutral, Score: 99.98%
+URL: https://techcrunch.com/2024/08/15/tipranks-an-ai-based-stock-tip-evaluator-created-after-its-founder-got-burned-by-bad-advice-sells-for-200m-to-prytek/
+--------------------------------------------------------------------------------
+Title: The EV evolution is going to take longer than we thought
+Description: EV sales are progressing slower than we thought, which is leading to a lot of confusion and pessimism in the market. Did automakers get it wrong?
+Sentiment: negative, Score: 99.83%
+URL: https://www.theverge.com/2024/9/1/24232206/ev-sales-slow-hybrid-phev-charging-ford-tesla
+--------------------------------------------------------------------------------
+Title: Snap CEO says the company is testing a ‘simplified’ Snapchat
+Description: Snap is testing a “simplified version of Snapchat,” CEO Evan Spiegel wrote in a letter to employees published on Snap’s website Tuesday. The CEO says the simplified version aims to improve the platform’s accessibility and usability. For those that remember Sn…
+Sentiment: positive, Score: 99.39%
+URL: https://techcrunch.com/2024/09/03/snap-ceo-says-the-company-is-testing-a-simplified-snapchat/
+--------------------------------------------------------------------------------
+Title: The fallout after Bolt’s aggressive fundraising attempt has been wild
+Description: After fintech Bolt surprised the industry with a leaked term sheet that revealed it is trying to raise at a $14 billion valuation, things got weird.
+© 2024 TechCrunch. All rights reserved. For personal use only.
+Sentiment: negative, Score: 97.10%
+URL: https://techcrunch.com/2024/08/24/the-fallout-after-bolts-aggressive-fundraising-attempt-has-been-wild/
+--------------------------------------------------------------------------------
+Title: Slowest US inflation since 2021 raises rate cut hope
+Description: The inflation report was being closely watched after stock market turmoil earlier this month.
+Sentiment: neutral, Score: 99.97%
+URL: https://www.bbc.co.uk/news/articles/cwy3wy522dyo
+--------------------------------------------------------------------------------
+Title: Bolt’s wild ultimatum to its VCs will only succeed if they agree, expert says
+Description: Bolt’s aggressive ultimatum to its existing shareholders will be an expensive uphill battle, an expert familiar with Bolt’s corporate charter tells TechCrunch.
+© 2024 TechCrunch. All rights reserved. For personal use only.
+Sentiment: negative, Score: 52.51%
+URL: https://techcrunch.com/2024/08/21/bolts-wild-ultimatum-to-its-vcs-will-only-succeed-if-they-agree-expert-says/
+--------------------------------------------------------------------------------
+Title: 360 One lifts its valuation of India's National Stock Exchange to $29.9B | TechCrunch
+Description: 360 One Asset, an investor in National Stock Exchange (NSE), has increased its valuation for India's top stock exchange to $29.9 billion.
+Sentiment: positive, Score: 99.96%
+URL: https://techcrunch.com/2024/08/23/360-one-lifts-its-valuation-of-indias-national-stock-exchange-to-29-9b/
+--------------------------------------------------------------------------------
+Title: Investors are already valuing OpenAI at over $100B on the secondaries market | TechCrunch
+Description: Rainmaker Securities has seen investors bid on OpenAI shares at prices that value the company at up to $143 billion.
+Sentiment: neutral, Score: 99.95%
+URL: https://techcrunch.com/2024/08/30/investors-are-already-valuing-openai-at-over-100b-on-the-secondaries-market/
+--------------------------------------------------------------------------------
+Title: 7-Eleven owner gets buyout offer from Canada firm behind Circle K
+Description: Shares in the Japan-based convenience store chain's parent company rose by more than 20% on the news.
+Sentiment: positive, Score: 99.97%
+URL: https://www.bbc.co.uk/news/articles/cjdk2nyngx9o
+--------------------------------------------------------------------------------
+Title: Zomato buys Paytm's entertainment ticket business for $244 million | TechCrunch
+Description: Zomato, the Indian food delivery giant, has acquired the entertainment ticketing business of financial services firm Paytm for $244.1 million, signaling a Zomato's acquisition of Paytm's entertainment ticketing biz for $244 million is among the largest M&A de…
+Sentiment: positive, Score: 94.74%
+URL: https://techcrunch.com/2024/08/21/zomato-buys-paytms-entertainment-ticket-business-for-244-million/
+--------------------------------------------------------------------------------
+Title: The 12 biggest take-private PE acquisitions so far this year in tech | TechCrunch
+Description: Private equity firms have been busy this year -- here's a look at some of the biggest take-private deals so far in 2024.
+Sentiment: neutral, Score: 99.94%
+URL: https://techcrunch.com/2024/08/25/the-12-biggest-private-equity-acquisitions-of-public-tech-firms-in-2024-so-far/
+--------------------------------------------------------------------------------
+Title: From InstaDeep to Paystack: Here are Africa's biggest startup exits and how much they raised | TechCrunch
+Description: As we continue to monitor the growth of Africa's tech ecosystem, it’s essential to highlight and analyze the biggest disclosed acquisitions.
+Sentiment: neutral, Score: 99.97%
+URL: https://techcrunch.com/2024/09/01/from-instadeep-to-paystack-here-are-africas-biggest-startup-exits-and-how-much-they-raised/
+--------------------------------------------------------------------------------
+Title: Fast fashion giant Shein finds child labour cases in supply chain
+Description: The Chinese fast fashion giant has been tightening scrutiny of firms that make the clothes it sells.
+Sentiment: negative, Score: 91.28%
+URL: https://www.bbc.co.uk/news/articles/c4glzzdd88lo
+--------------------------------------------------------------------------------
+Title: Exclusive: Bangladesh to hike rates and seek assistance, says bank boss
+Description: Soaring prices have been a major concern for the country as its currency comes under pressure.
+Sentiment: negative, Score: 99.73%
+URL: https://www.bbc.co.uk/news/articles/cdjw28pvrl9o
+--------------------------------------------------------------------------------
+Title: Lockheed Martin to buy satellite maker Terran Orbital in $450M deal | TechCrunch
+Description: Lockheed, which holds a 28.3% stake in Terran Orbital, will take the satellite maker private in a deal that's expected to close before the end of 2024.
+Sentiment: neutral, Score: 99.99%
+URL: https://techcrunch.com/2024/08/15/lockheed-martin-to-buy-satellite-maker-terran-orbital-in-450m-deal/
+--------------------------------------------------------------------------------
+Title: VCs are so eager for AI startups, they're buying into each others’ SPVs at high prices | TechCrunch
+Description: These VCs aren't buying actual shares in the underlying AI companies though which means they could get burned later on.
+Sentiment: neutral, Score: 99.71%
+URL: https://techcrunch.com/2024/08/24/vcs-are-so-eager-for-ai-startups-theyre-buying-into-each-others-spvs-at-high-prices/
+--------------------------------------------------------------------------------
+Title: Public EV startup with an indicted CEO is looking to raise an additional $100 million | TechCrunch
+Description: It's tempting to think the trend of EV startups merging with special purpose acquisition companies (SPACs) to go public has ended, seeing how many of them
+Sentiment: neutral, Score: 99.74%
+URL: https://techcrunch.com/2024/09/06/public-ev-startup-with-an-indicted-ceo-is-looking-to-raise-an-additional-100-million/
+--------------------------------------------------------------------------------
+Title: Selling a startup in an ‘acqui-hire’ is more lucrative than it seems, founders and VCs say | TechCrunch
+Description: Selling a startup in an ‘acqui-hire’ is more lucrative than it seems, founders and VCs say | TechCrunchtechcrunch.com
+Sentiment: positive, Score: 99.91%
+URL: https://techcrunch.com/2024/08/18/selling-a-startup-in-an-acqui-hire-is-more-lucrative-than-it-seems-founders-and-vcs-say/
+--------------------------------------------------------------------------------
+Title: Watch out for these 10 hot startups from South Korea | TechCrunch
+Description: Most of the biggest South Korean tech startups intend to pursue public offerings in either South Korea or the United States as part of their exit strategy.
+Sentiment: neutral, Score: 99.99%
+URL: https://techcrunch.com/2024/08/31/watch-out-for-these-10-hot-startups-from-south-korea/
+--------------------------------------------------------------------------------
+Title: The founder building a wealth-management product her grandmother would have loved | TechCrunch
+Description: Mical Jeanlys-White built WealthMore out of frustration.  She spent years on Wall Street, building products at American Express and serving as a
+Sentiment: neutral, Score: 99.99%
+URL: https://techcrunch.com/2024/08/24/the-founder-building-a-wealth-management-product-her-grandmother-would-have-loved/
+--------------------------------------------------------------------------------
+Title: African B2B e-commerce startups Wasoko and MaxAB complete merger: Interview with co-CEO Daniel Yu | TechCrunch
+Description: Two of Africa's largest B2B e-commerce platforms, Wasoko and MaxAB, have finally completed the continent’s much-talked-about merger.
+Sentiment: positive, Score: 97.94%
+URL: https://techcrunch.com/2024/08/27/wasoko-maxab-complete-merger/
+--------------------------------------------------------------------------------
+Title: GitHub CEO Thomas Dohmke says the AI industry needs competition to thrive
+Description: Dohmke explains how GitHub and its Copilot fit into the AI tech stack for huge numbers of companies, including GitHub itself.
+Sentiment: neutral, Score: 99.98%
+URL: https://www.theverge.com/24221978/github-thomas-dohmke-ai-copilot-microsoft-openai-open-source
+--------------------------------------------------------------------------------

@@ -1,4 +1,14 @@
 Top Headlines with Sentiment:
+Title: Stock Market Today: Dow Rallies 600 Points; Palantir, Dell Stocks in Focus — Live Updates - The Wall Street Journal
+Description: Live updates on stocks, bonds and markets, including the Dow Jones Industrial Average, S&P 500 and Nasdaq Composite. Index futures gained to start the week.
+Sentiment: positive, Score: 99.97%
+URL: https://www.wsj.com/livecoverage/stock-market-today-dow-sp500-nasdaq-live-09-09-2024
+--------------------------------------------------------------------------------
+Title: Here’s why a half-point cut would actually hurt stocks, says Morgan Stanley - MarketWatch
+Description: Critical information for the U.S. trading day
+Sentiment: neutral, Score: 99.99%
+URL: https://www.marketwatch.com/story/heres-the-key-reason-why-a-half-point-cut-would-actually-hurt-stocks-according-to-morgan-stanleys-top-strategist-a841c37d
+--------------------------------------------------------------------------------
 Title: Chinese Stocks on Verge of Five-Year Low as Recovery Hopes Fade - Bloomberg
 Description: Chinese stocks are on the brink of falling to a five-year low seen in February as bearish sentiment grips the market amid a lack of earnings and economic recovery.
 Sentiment: negative, Score: 99.87%
@@ -8,9 +18,4 @@ Title: Stock market searches for its lost mojo after a drubbing - TheStreet
 Description: The S&P 500 suffers its worst weekly loss in two years as traders wonder if Fed Chairman Jerome Powell has been too cautious on rates.
 Sentiment: negative, Score: 99.87%
 URL: https://www.thestreet.com/investing/stocks/after-a-drubbing-market-searches-for-its-mojo
---------------------------------------------------------------------------------
-Title: Risk-On Momentum in Stocks Succumbs to Mounting Growth Worries - Bloomberg
-Description: The seemingly unstoppable stock market rally is wobbling as it confronts a horde of challenges to the momentum that’s taken it from record high to record high.
-Sentiment: negative, Score: 95.22%
-URL: https://www.bloomberg.com/news/articles/2024-09-08/stock-rally-succumbs-to-mounting-economic-growth-worries
 --------------------------------------------------------------------------------
