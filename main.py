@@ -16,7 +16,9 @@ sentences = [
     "Expert View: This roaring bull market has hues of irrational exurberance",
     "GMR Airports to increase stake in Delhi airport by 10%",
     "Call Waiting : How Vodafone Idea can claw its way back.",
-    "Why ikea's parent is betting big on malls when quick commerce rules the day."
+    "Why ikea's parent is betting big on malls when quick commerce rules the day.",
+    "GST cut on cancer drugs,namkeen and shared copter",
+    "Namkeens to get cheaper as Center announces GST Cuts"
 ]
 
 # Use tqdm to add a progress bar
