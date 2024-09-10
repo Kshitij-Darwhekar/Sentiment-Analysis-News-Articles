@@ -25,7 +25,7 @@ all_articles = newsapi.get_everything(q='stock market',
                                       page=2)
 
 # /v2/top-headlines/sources
-sources = newsapi.get_sources()
+# sources = newsapi.get_sources()
 
 # Function to write data to a file
 def write_to_file(filename, content):
@@ -55,19 +55,19 @@ else:
     all_articles_content = "Failed to fetch all articles\n"
 
 # Prepare content for sources
-sources_content = "Sources:\n"
-if sources['status'] == 'ok':
-    for source in sources['sources']:
-        sources_content += f"Source Name: {source['name']}\n"
-        sources_content += f"Description: {source['description']}\n"
-        sources_content += f"URL: {source['url']}\n"
-        sources_content += "-" * 80 + "\n"
-else:
-    sources_content = "Failed to fetch sources\n"
+# sources_content = "Sources:\n"
+# if sources['status'] == 'ok':
+#     for source in sources['sources']:
+#         sources_content += f"Source Name: {source['name']}\n"
+#         sources_content += f"Description: {source['description']}\n"
+#         sources_content += f"URL: {source['url']}\n"
+#         sources_content += "-" * 80 + "\n"
+# else:
+#     sources_content = "Failed to fetch sources\n"
 
 # Write content to files
 write_to_file('top_headlines.txt', top_headlines_content)
 write_to_file('all_articles.txt', all_articles_content)
-write_to_file('sources.txt', sources_content)
+# write_to_file('sources.txt', sources_content)
 
-print("Data has been exported to 'top_headlines.txt', 'all_articles.txt', and 'sources.txt'.")
+print("Data has been exported to 'top_headlines.txt', 'all_articles.txt'.")
